@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Gabriel Richert</h1>
-<h3 align="center">Analista de Banco de Dados</h3>
+<h3 align="center">Estudante de Programação</h3>
 
 - 🌱 Atualmente estou aprimorando meus conhecimentos em **sql**
 - 🔭 Possuo experiência em administração, análise e gerenciamento de banco de dados
